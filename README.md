@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Xpense](https://github.com/rajeevbhat27/Xpense)
 
-- 🌱 I’m currently learning **JavaScript and React**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/rajeevbhat27)
 
