@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajeevbhat27" alt="rajeevbhat27" /> </p>
 
-- 🔭 I’m currently working on [Xpense](https://github.com/rajeevbhat27/Xpense)
-
 - 🌱 I’m currently learning **Full Stack Development**
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/rajeevbhat27)
